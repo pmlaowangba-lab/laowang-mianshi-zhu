@@ -1,0 +1,4 @@
+interface:
+  display_name: "老王面试逐字稿"
+  short_description: "按 JD 写口述稿，增量合并进面试总册。"
+  default_prompt: "用 laowang-mianshi-zhu 为目标岗位生成面试逐字稿并合并进总册。"
